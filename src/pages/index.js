@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/vitalcore/getting-started">
+            to="/docs/category/getting-started">
             VitalCore Documentation - Getting Started
           </Link>
         </div>
