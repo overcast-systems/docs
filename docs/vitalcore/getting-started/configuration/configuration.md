@@ -1,6 +1,7 @@
 ---
 id: index
 title: Configuration
+description: Script already installed? Start configuring
 ---
 
 import DocCardList from '@theme/DocCardList';
