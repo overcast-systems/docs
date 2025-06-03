@@ -36,3 +36,8 @@
 .banner_custom {
   background-color: var(--banner-custom-bg);
 }
+
+/* Abstand reduzieren, wenn ein Absatz direkt vor einem Codeblock steht */
+.markdown pre {
+  margin-top: -1rem !important;  /* Standard ist oft ~1rem, hier z.B. stark verkleinert */
+}
