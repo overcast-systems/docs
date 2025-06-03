@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Configuration
-description: Script already installed? Great, let us help you configure it
+description: Script already installed? Start configuring
 ---
 
 This script has a lot of options to configure and we understand that some options might be confusing at first. We will guide you through each option individually.
